@@ -1,6 +1,3 @@
 # AIGC-2023-Summer
+- 5/18 Lecture01已经完成，Lecture02听到57m。
 
-### Beginning Datetime, 2023-May-07
-
-## Lecture-01: Pretrained-Models
-# AIGC-2023-Summer
