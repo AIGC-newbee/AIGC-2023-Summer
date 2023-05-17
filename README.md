@@ -8,4 +8,4 @@ Create a new branch for your own to upload homework/code. Have fun!
 
 
 
-![cover](雷电影02.jpg)
+![cover](cover.jpg)
